@@ -21,12 +21,13 @@ The existing ventilator machines are not being used in the optimal way. There is
 ### 👨‍🔬Hypothesis
 Hospitals and holders of emergency stock will agree to lend their machines if they are guaranteed that they will get at least the same number back when they need them and likely will get more if there is a possibility.
 ### 🤔 Assumptions
-Governments will be on board (or can be lobbied/pressured).
-Machines can be packed, transferred and deployed with low probability of damage and can be set up easily at the target location.
-Medical staff at the target location can be trained quickly to use an unfamiliar machine. 
-Transporting machines will not spread the virus. 
-Mathematical modelling can be used to predict demand to move the machines ahead of the curve. 
-An algorithm for balancing the needs can be designed that will be fair and accepted by all players. The key requirement could be that there is only a low risk of being worse off for players who contribute machines and a high probability to be better off. 
+* Governments will be on board (or can be lobbied/pressured).
+* Machines can be packed, transferred and deployed with low probability of damage and can be set up easily at the target location.
+* Medical staff at the target location can be trained quickly to use an unfamiliar machine. 
+* Transporting machines will not spread the virus. 
+* Mathematical modelling can be used to predict demand to move the machines ahead of the curve. 
+* An algorithm for balancing the needs can be designed that will be fair and accepted by all players. The key requirement could be that there is only a low risk of being worse off for players who contribute machines and a high probability to be better off. 
+
 ## 💻Implementation Suggestion
 
 ### V1
@@ -52,8 +53,10 @@ This can work here and now. No need to develop new hardware, get anything certif
 Reduction in the number of sites with ventilator shortage. 
 
 ## 😅 Known Issues
-Reluctance to give up machines even if they are not needed at the moment ‘just in case’.
-Regulatory red tape. I think both can be circumvented when people realise we are at war. Logistics needs to be super-reliable. Some people might want to play the system by exaggerating their needs to get extra capacity (cf. panic buying). This needs to be severely penalised somehow. 
+* Reluctance to give up machines even if they are not needed at the moment ‘just in case’.
+* Regulatory red tape. I think both can be circumvented when people realise we are at war. 
+* Logistics needs to be super-reliable. 
+* Some people might want to play the system by exaggerating their needs to get extra capacity (cf. panic buying). This needs to be severely penalised somehow. 
 
 
 ## ✅ "I've read this" section
